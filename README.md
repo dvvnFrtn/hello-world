@@ -1,5 +1,5 @@
 
-# Hello API
+# Hello World API
 
 Returns the message 'Hello, World!!!'.
 
